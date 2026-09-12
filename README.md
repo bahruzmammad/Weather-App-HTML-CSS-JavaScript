@@ -1,47 +1,52 @@
-# Weather App
+# Weather-App-HTML-CSS-JavaScript
 
-A clean and responsive weather application built with HTML, CSS, and JavaScript.
+HTML/CSS/JavaScript Website built with HTML, CSS, JavaScript.
 
-## Features
+## Overview
 
-* Search weather by city
-* Current temperature
-* Weather condition
-* Humidity
-* Wind speed
-* Responsive design
-* Clean Apple-inspired UI
-* Real-time weather data
+This repository contains a html/css/javascript website with 4 tracked and analyzed project files across 2 directories.
 
 ## Technologies
 
-* HTML5
-* CSS3
-* JavaScript
-* Open-Meteo API
+- HTML
+- CSS
+- JavaScript
+
+## Entry Points
+
+- `index.html`
 
 ## Project Structure
 
 ```text
-html-css-js-weather/
-├── index.html
-├── styles/
-│   └── style.css
+Weather-App-HTML-CSS-JavaScript/
 ├── scripts/
 │   └── script.js
-└── README.md
+├── styles/
+│   └── style.css
+├── .prettierrc
+└── index.html
 ```
 
-## API
+Important directories:
 
-Weather data is provided by [Open-Meteo](https://open-meteo.com/).
+- `scripts`
+- `styles`
 
-## Run Locally
+## Repository Statistics
 
-Clone the repository:
+- Files: 4
+- Directories: 2
+- Source files: 3
+- Asset files: 0
+- Lines of code/text: 402
 
-```bash
-git clone https://github.com/bahruzmammad/html-css-js-weather.git
-```
+## Git
 
-Open the project folder and run `index.html` in your browser.
+- Branch: `master`
+- Commits: 5
+- Latest commit: `e5610e89030e`
+
+## Notes
+
+This documentation reflects the current repository structure and detected project configuration.
